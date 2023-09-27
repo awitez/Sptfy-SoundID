@@ -1,0 +1,2 @@
+let session = app.sessionWithName( "Spotify" )
+session.stop()
